@@ -6,3 +6,8 @@
 $ git init
 Initialised a git repository for testing
 ```
+
+this is my tasklist
+- [x] This is a completed item
+- [x] This is another completed item
+- [ ] Now this is an incomplete item 
